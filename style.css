@@ -422,8 +422,8 @@ nav{
 }
 
 .footer-row2 .col a:hover{
-    color: #cdcdcd;
-    trasition: .5s;
+    color: white;
+    trasition: all ease .5s;
 }
 
 .footer-row2 .col h3{
@@ -479,8 +479,8 @@ nav{
 }
 
 .foot-row3-div button:hover{
-    border: .5px solid #cdcdcd;
-    transition: .5s;
+    border: .5px solid white;
+    transition: all ease .5s;
 }
 
 /* Row 3 End */
