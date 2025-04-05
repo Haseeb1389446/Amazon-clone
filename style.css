@@ -101,6 +101,7 @@ nav{
     align-items: center;
     justify-content: center;
     font-size: large;
+    cursor: pointer;
 }
 
 /* box4 */
