@@ -421,6 +421,11 @@ nav{
     font-size: 14px;
 }
 
+.footer-row2 .col a:hover{
+    color: #cdcdcd;
+    trasition: .5s;
+}
+
 .footer-row2 .col h3{
     font-size: 18px;
     font-weight: 600;
@@ -471,6 +476,11 @@ nav{
     align-items: center;
     justify-content: center;
     cursor: pointer;
+}
+
+.foot-row3-div button:hover{
+    border: .5px solid #cdcdcd;
+    transition: .5s;
 }
 
 /* Row 3 End */
